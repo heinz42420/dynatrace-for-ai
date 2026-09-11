@@ -1,6 +1,6 @@
 {
   "name": "dynatrace-for-ai",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "Skills, prompts, and instructions for building AI agents on top of Dynatrace production context",
   "main": "src/index.js",
   "scripts": {
